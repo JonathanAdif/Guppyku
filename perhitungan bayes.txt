@@ -1,0 +1,47 @@
+P1| Penyakit White Spots : 2      hasil riset 1 = g7,g1,g3
+--bintik putih G7                 hasil riset 2 = g7,g1
+--nafsu makan  G1 
+--menggosokan kulit    G3   
+
+P2| Penyakit Velvet : 1           hasil riset 1 = g7,g2,g4
+--bintik putih G7
+--mengelupas G2
+--berdarah G4
+
+P3| Fin Rot : 2
+--infeksi/jamuran G5                hasil riset 1 = g5,g6,g8
+--sirip atau ekor menempel G6       hasil riset 2 = g5,g8
+--sirip atau ekor rusak G8 
+
+P4| Columnaris dan Jamur Mulut :2       hasil riset 1 = g7,g1,g5,g9
+--bintik putih G7                       hasil riset 2 = g5,g9
+--nafsu makan  G1 
+--infeksi jamur G5
+--kesulitan berenang G9
+
+P5 | Dropsy : 2                          hasil riset 1 = g5,g9,g10,g11,g12,g13
+--infeksi/jamuran  G5                    hasil riset 2 = g9,g11,g13
+--kesulitan berenang G9
+--bengkak G10 
+--berubah warna G11
+--bentuk badan terdistorsi G12
+--sisik menonjol G13
+
+P6 | Insang Bengkak dan Terengah 1        hasil riset 1 = g10,g14
+--bengkak G10 
+--terengah engah dipermukaan G14
+
+        G1 | Apakah Ikan Guppy Kehilangan Nafsu Makan. ?
+	G2 | Apakah Kulit Ikan Guppy Mengelupas ?
+	G3 | Apakah Ikan Guppy Menggosokkan badannya ke dasar/sekeliling wadah ?
+	G4 | Apakah Ikan Guppy Berdarah ?
+	G5 | Apakah Terdapat Putih Jamur pada Ikan Guppy ?
+	G6 | Apakah Sirip atau Ekor pada Ikan Guppy Menempel ?
+	G7 | Apakah Terdapat Bintik Bintik Merah pada Ikan Guppy ?
+	G8 | Apakah Sirip atau Ekor pada Ikan Guppy Rusak ?
+	G9 | Apakah Ikan Guppy Kesulitan Untuk Berenang ?
+	G10 | Apakah Pembengkakan pada Tubuh Ikan Guppy ?
+	G11 | Apakah Perubahan pada Warna Ikan Guppy ?
+	G12 | Apakah Bentuk Badan pada Ikan Guppy Terdistorsi ?
+	G13 | Apakah Sisik Pada Ikan Guppy Menonjol ?
+	G14 | Apakah Ikan guppy Terengah-engah di permukaan ?
